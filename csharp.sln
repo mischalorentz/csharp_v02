@@ -1,7 +1,12 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autentica_v04", "autentica_v04\autentica_v04.csproj", "{4D3112B0-F8B4-4C77-BCCE-9461A8DCCF8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autentica", "autentica_v04\autentica.csproj", "{4D3112B0-F8B4-4C77-BCCE-9461A8DCCF8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B4A6AFE-6B64-4649-B677-740CCCA50E0E}"
+	ProjectSection(SolutionItems) = preProject
+		cripto.cs = cripto.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
